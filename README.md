@@ -1,9 +1,9 @@
-# 💄 AI Professional Makeup Generator — Open-Source Virtual Makeup Try-On SaaS
+# 💄 AI Professional Makeup Generator — Open-Source Virtual Makeup Try-On SaaS (Free YouCam Makeup / ModiFace Alternative)
 
-> **Try on makeup looks virtually in seconds with advanced AI.** A production-ready, self-hostable Next.js SaaS boilerplate built for beauty brands, salons, creators, and DTC apps. A free open-source alternative to paid virtual makeover tools — powered by the MuAPI AI engine using the `nano-banana-2-edit` model.
+> **Try on professional makeup looks virtually before buying or booking in seconds.** A production-ready, self-hostable Next.js SaaS boilerplate built for beauty brands, salons, and DTC apps — replaces $50/mo virtual try-on tools. A free open-source alternative to YouCam Makeup, ModiFace, Perfect Corp, and BeautyPlus — powered by the MuAPI AI engine.
 
-**Tech stack:** Next.js 16 (App Router) · Prisma · PostgreSQL · NextAuth (Google OAuth) · Stripe · Tailwind CSS · MuAPI (nano-banana-2-edit) · Webhook-backed async delivery
-**Use cases:** Beauty salon client consultations · Virtual makeup style previews · Personal makeover planning · Makeup artist portfolio marketing · DTC try-on widget integrations
+**Tech stack:** Next.js 14 (App Router) · Prisma · PostgreSQL · NextAuth (Google OAuth) · Stripe · Tailwind CSS · MuAPI nano-banana-2-edit · Webhook-backed async delivery
+**Use cases:** Beauty salon client styling · Cosmetics brand e-commerce · Virtual makeup tutorials · Influencer content creation · Beauty app marketing · Makeup artist portfolios · DTC beauty product try-on · Skincare & cosmetics retail
 
 ![AI Professional Makeup Generator Interface Screenshot](https://cdn.muapi.ai/data/2/249832875583/Screenshot_2026-05-29_110441.png)
 
