@@ -15,6 +15,8 @@
 
 > 🎨 **[Explore 50+ more open-source AI apps →](https://github.com/Anil-matcha/awesome-generative-ai-apps)**
 
+https://github.com/user-attachments/assets/b5b811ce-0ce8-4ddf-8522-428a4c5d651e
+
 ## 🌐 Project Details
 
 **GitHub Repository:** [github.com/SamurAIGPT/ai-professional-makeup-generator](https://github.com/SamurAIGPT/ai-professional-makeup-generator)
